@@ -1,7 +1,5 @@
 <?php
-
 include ('./Job.php');
-
 class Person
 {
   public function __construct() {
